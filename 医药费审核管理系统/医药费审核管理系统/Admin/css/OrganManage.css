@@ -1,0 +1,26 @@
+﻿body 
+{
+    
+}
+#middle
+{
+    font-style: inherit;
+   
+    text-align: center;
+    position:fixed;
+    width:1000px;
+    height:100px;
+    top:100px;
+}
+#buttom
+{
+    position:fixed;
+    width:1300px;
+    height:100px;
+    left:0px;
+    top:400px;
+    background-color:#C0C0C0;
+     
+    
+   
+    }
